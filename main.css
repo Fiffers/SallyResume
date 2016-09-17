@@ -32,3 +32,8 @@ table#t01 {
 th {
 	width: 33%;
 }
+
+address {
+	margin-left: auto;
+	margin-right: auto;
+}
