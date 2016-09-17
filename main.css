@@ -1,0 +1,23 @@
+body {
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	color: #636261;
+	margin-left: 200px;
+	margin-right: 200px;
+	}
+
+h1 {
+	font-weight: bolder;
+	letter-spacing: 5px;
+	line-height: 20%;
+	}
+
+
+img, aside {
+	float: right;
+	border: 1px;
+	margin: 0px 0px 15px 20px;
+}
+
+h3 {
+	line-height: 1px;
+}
