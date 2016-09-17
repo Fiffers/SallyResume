@@ -21,3 +21,14 @@ img, aside {
 h3 {
 	line-height: 1px;
 }
+
+table#t01 {
+    width: 100%; 
+    line-height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+	width: 33%;
+}
